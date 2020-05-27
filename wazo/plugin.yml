@@ -1,0 +1,10 @@
+name: wazo_plugind_blank
+namespace: official
+version: 0.0.1
+author: Francis Chartrand
+display_name: Wazo Blank
+min_wazo_version: 19.17
+tags:
+  - beta
+  - assistance
+homepage: https://wazo.io
