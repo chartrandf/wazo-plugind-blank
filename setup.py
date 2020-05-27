@@ -7,7 +7,7 @@ from setuptools import find_packages
 from setuptools import setup
 
 setup(
-    name='wazo_plugind_blank',
+    name='wazo-plugind-blank',
     version='0.1',
 
     description='Blank plugin to test install',

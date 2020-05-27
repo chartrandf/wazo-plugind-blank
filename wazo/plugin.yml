@@ -1,4 +1,4 @@
-name: wazo_plugind_blank
+name: wazo-plugind-blank
 namespace: official
 version: 0.0.1
 author: Francis Chartrand
