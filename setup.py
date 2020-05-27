@@ -18,8 +18,8 @@ setup(
     url='https://wazo.io',
 
     entry_points={
-        'wazo_dird.views': [
-            'wazo_plugind_blank = src.driver:MyDriver',
-        ]
+        # 'wazo_dird.views': [
+        #     'wazo_plugind_blank = src.driver:MyDriver',
+        # ]
     }
 )
