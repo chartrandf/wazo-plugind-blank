@@ -9,4 +9,4 @@ class MyDriver(object):
         self._config = config
 
     def generate(self):
-        return 'Blank Template!'
+        return 'Dummy Plugin!'

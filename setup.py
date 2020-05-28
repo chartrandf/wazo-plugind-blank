@@ -7,7 +7,7 @@ from setuptools import find_packages
 from setuptools import setup
 
 setup(
-    name='wazo-plugind-blank',
+    name='wazo-dummy-plugin',
     version='0.1',
 
     description='Blank plugin to test install',
@@ -17,9 +17,5 @@ setup(
 
     url='https://wazo.io',
 
-    entry_points={
-        # 'wazo_dird.views': [
-        #     'wazo_plugind_blank = src.driver:MyDriver',
-        # ]
-    }
+    entry_points={ }
 )

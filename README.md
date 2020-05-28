@@ -1,3 +1,3 @@
-# Wazo Blank Plugin
+# Wazo Dummy Plugin
 
-Blank plugin to test addon installation without headache 🤯.
+Dummy plugin to test addon installation without headache 🤯.

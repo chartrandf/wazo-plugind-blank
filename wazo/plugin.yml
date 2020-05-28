@@ -1,8 +1,8 @@
-name: wazo-plugind-blank
+name: wazo-dummy-plugin
 namespace: official
 version: 0.0.1
-author: Francis Chartrand
-display_name: Wazo Blank
+author: Wazo
+display_name: Wazo Dummy
 min_wazo_version: 19.17
 tags:
   - beta
