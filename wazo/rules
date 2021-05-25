@@ -12,6 +12,7 @@ case "$1" in
     ;;
 
     install)
+    sleep 30
     ;;
 
     uninstall)
